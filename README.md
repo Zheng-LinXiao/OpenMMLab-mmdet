@@ -23,3 +23,7 @@ python tools/train.py mask_rcnn_r50_rpn_1x.py --work-dir work/mask_rcnn_r50_fpn_
 | bbox AP | mask AP |
 | :----:  | :-----: |
 |  76.73  |  79.29  |
+
+#训练log和结果视频
+链接：https://pan.baidu.com/s/1hG_pcJlNWSADrZqtX8Bb_w?pwd=sfsx 
+提取码：sfsx
